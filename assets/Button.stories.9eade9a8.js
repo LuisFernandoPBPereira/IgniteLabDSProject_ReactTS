@@ -1,0 +1,2 @@
+import{B as t}from"./Button.46c52d74.js";import"./index.module.bf5bc902.js";import"./index.1b19ce0d.js";import"./iframe.5b65c8c8.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.c0fbb6d8.js";const m={title:"Components/Button",component:t,args:{children:"Create Accout"},argTypes:{}},a={},i=["Default"];export{a as Default,i as __namedExportsOrder,m as default};
+//# sourceMappingURL=Button.stories.9eade9a8.js.map
