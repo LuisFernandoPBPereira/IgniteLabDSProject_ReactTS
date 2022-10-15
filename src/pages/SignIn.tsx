@@ -16,10 +16,10 @@ export function SignIn() {
     async function handleSignIn(event: FormEvent){
         event.preventDefault()
 
-        await axios.post("/sessions",{
-            email:"luisfernandopbp@gmail.com",
-            password:"123456"
-        })
+        // await axios.post("/sessions",{
+        //     email:"luisfernandopbp@gmail.com",
+        //     password:"123456"
+        // })
 
         setIsUserSignedIn(true)
     }
@@ -82,4 +82,3 @@ export function SignIn() {
     </div>
   )
 }
-
