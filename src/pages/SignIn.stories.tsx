@@ -29,7 +29,7 @@ export const Default: StoryObj = {
         const canvas = within(canvasElement)
 
         userEvent.type(canvas.getByPlaceholderText("Digite seu e-mail"),
-                                           "luisfernandopbp@gmail.com");
+                                           "exemplo@gmail.com");
                                            
         userEvent.type(canvas.getByPlaceholderText("************"),
         "123456");
